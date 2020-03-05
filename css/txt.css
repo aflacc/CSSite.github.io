@@ -1,0 +1,13 @@
+/* Created by aflacc. Please don't remove this text.*/
+.italic{font-style: italic;}
+.bold{font-weight: bold;}
+.strike{text-decoration: line-through;}
+.under{text-decoration: underline;}
+
+/* Font Size Classes */
+.big{font-size: 40px;}
+.small{font-size: 10px;}
+
+/* Settings */
+a{font-size: 20px;} /* Default Text size. */
+a{color: white;;} /* Text Color. Set to White on light theme */
